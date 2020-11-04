@@ -1,0 +1,37 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+h1 {
+    color:blue;
+}
+
+#t1 {
+    background-color: cyan;
+    height: 50px;
+    width: 290px;
+    padding: 10px;
+    margin: 50px;
+    margin-left: 450px;
+    border: solid 2px black;
+}
+
+#t2 {
+    background-color: cyan;
+    height: 50px;
+    width: 300px;
+    border: solid 2px black;
+    margin-left: 450px;
+    padding: 10px;
+}
+
+#t3 {
+    background-color: cyan;
+    height: 50px;
+    width: 350px;
+    border: solid 2px black;
+    margin-left: 450px;
+    margin-top: 50px;
+    padding: 10px;
+}
